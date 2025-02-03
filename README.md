@@ -4,8 +4,6 @@ Thought for a second
 
 A simple single-page application (SPA) for browsing and managing a library of video games. Built with React.js, Tailwind CSS, and Vite, this project fetches and displays game names from the RAWG Video Games Database and showcases frequently searched games as "Trending" using Appwrite's online database.
 
-## Demo 
-*(Include a link or screenshot of your application here)*
 ## Features 
  
 - **Game Search:**  Fetch and display game names using RAWG Video Games Database API.
